@@ -1,6 +1,6 @@
-# GIS Group QGIS Plugin
+# Targomo QGIS Plugin
 
-developed by [Henning Jagd (GisGroup)](mailto:henningjagd@gmail.com)
+Formerly developed by [Henning Jagd (GisGroup)](mailto:henningjagd@gmail.com)
 
 ## Install
 1. Add repository `http://gisgroup.eu/plugins.xml` in `Settings>Manage and Install Plugins>Settings>Plugin repositories`
